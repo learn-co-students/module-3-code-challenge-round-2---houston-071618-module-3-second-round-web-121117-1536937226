@@ -13,7 +13,8 @@
         "Caramel toffee cake"
       ],
       "brewers_tips": "The earthy and floral aromas from the hops can be overpowering. Drop a little Cascade in at the end of the boil to lift the profile with a bit of citrus.",
-      "contributed_by": "Sam Mason <samjbmason>"
+      "contributed_by": "Sam Mason <samjbmason>",
+      "Name": {}
     },
     {
       "id": 3,
@@ -28,7 +29,8 @@
         "Yuzu cheesecake"
       ],
       "brewers_tips": "Clean everything twice. All you want is the clean sourness of lactobacillus.",
-      "contributed_by": "Sam Mason <samjbmason>"
+      "contributed_by": "Sam Mason <samjbmason>",
+      "Name": {}
     },
     {
       "id": 4,
@@ -276,7 +278,7 @@
       "name": "Vice Bier",
       "tagline": "Hoppy Wheat Bier.",
       "first_brewed": "04/2013",
-      "description": "Our take on the classic German Kristallweizen. A clear German wheat beer, layers of bubblegum and vanilla perfectly balanced with the American and New Zealand hops.",
+      "description": "Vice Bier\n\nHoppy Wheat Bier.\n Save",
       "image_url": "https://images.punkapi.com/v2/keg.png",
       "food_pairing": [
         "Citrus salad with balsamic dressing",
